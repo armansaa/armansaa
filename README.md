@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Arief!
 Currently working at WorklifeBeyond as a DevOps Engineer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armansaa&hide=prs&count_private=true&show_icons=true&theme=radical))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armansaa&hide=prs&count_private=true&show_icons=true&theme=radical)
 
 
 ### Let's connect!
