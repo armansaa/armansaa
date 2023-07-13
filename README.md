@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Arief!
-Currently working at WorklifeBeyond as a DevOps Engineer.
+Currently working at 99 Group as a DevSecOps Engineer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armansaa&hide=prs&count_private=true&show_icons=true&theme=radical)
 
@@ -14,8 +14,8 @@ Currently working at WorklifeBeyond as a DevOps Engineer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WorklifeBeyond
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working at 99Group
+- 🌱 I’m currently learning about DevOps and Cloud
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
