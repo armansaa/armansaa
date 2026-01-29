@@ -1,7 +1,9 @@
 ### Hi there 👋 , I'm Arief!
 Currently working at 99 Group as a DevSecOps Engineer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armansaa&count_private=true&show_icons=true&theme=radical)
+![Arief's GitHub stats](https://github-readme-stats-one-bay-lroxt008de.vercel.app/api?username=armansaa&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
+
+
 
 
 ### Let's connect!
